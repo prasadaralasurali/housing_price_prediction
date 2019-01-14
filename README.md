@@ -20,6 +20,6 @@ The modified Boston housing dataset (`housing.csv`) consists of 489 data points,
 3. `PTRATIO`: pupil-teacher ratio by town
 
 **Target Variable**
-4. `MEDV`: median value of owner-occupied homes
+1. `MEDV`: median value of owner-occupied homes
 
 **Note: this proejct is a part of Machine Learning Engineer Nanodegree from Udacity**
